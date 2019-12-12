@@ -1,8 +1,9 @@
 # PairProgramming
 Projeto Para Exercitar Pair Programming
 
-## :ledger: PRÓS
+## :ledger: CONTRAS
+:white_check_mark: 
+
+## :blue_book: PRÓS
 :ballot_box_with_check:
 
-## :blue_book: CONTRAS
-:white_check_mark: 
